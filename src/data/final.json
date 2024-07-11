@@ -1,0 +1,21 @@
+[
+    {
+    "tipo": "decisão",
+    "fase": "final",
+    "data": "03/06/17",
+    "mandante": "JUVENTUS",
+    "gols_mandante": "1",
+    "gols_visitante": "4",
+    "visitante": "REAL MADRID",
+    "estadio": "MILLENNIUM STADIUM",
+    "penaltis": "Não",
+    "placar_penaltis": "-",
+    "vencedor": "REAL MADRID",
+    "perdedor": "JUVENTUS",
+    "marcadores-mandante":"MARIO MANDZUKIC",
+    "marcadores-visitante":"CRISTIANO RONALDO(2),CASEMIRO,MARCO ASENSIO",
+    "expulsoes":"JUAN CUADRADO",
+    "imagem":"https://logodetimes.com/wp-content/uploads/juventus-football-club.png",
+    "imagem1":"https://logodownload.org/wp-content/uploads/2016/03/Real-Madrid-logo-4.jpg"
+    }
+]
